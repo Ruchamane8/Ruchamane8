@@ -1,5 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://bharatimandal.io)
+
 <h1 align="center">Hi 👋, I'm Rucha Mane</h1>
 <h3 align="center">A passionate front end developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruchamane8&label=Profile%20views&color=0e75b6&style=flat" alt="ruchamane8" /> </p>
 
