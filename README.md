@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://bharatimandal.io)
+[![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)](https://ruchamane.io)
 
 <h1 align="center">Hi 👋, I'm Rucha Mane</h1>
 <h3 align="center">A passionate front end developer from India</h3>
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruchamane8&show_icons=true&locale=en&layout=compact" alt="ruchamane8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ruchamane8&show_icons=true&locale=en" alt="Ruchamane8" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruchamane8&show_icons=true&locale=en" alt="ruchamane8" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchamane8&" alt="Ruchamane8" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruchamane8&" alt="ruchamane8" /></p>
